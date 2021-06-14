@@ -144,4 +144,4 @@ pip-selfcheck.json
 
 #gym
 gym-results/
-
+models-checkpoints/
